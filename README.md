@@ -1,7 +1,7 @@
 # Blake Kellison
 
 ## About Me
-Software developer with experience in full-stack development and hardware integration. Passionate about building innovative solutions that bridge software and hardware.
+Software developer with experience in full-stack development and have experience in hardware integration.
 
 ## Featured Projects
 
