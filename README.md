@@ -33,6 +33,6 @@ Interactive board game application with physical hardware integration through Ar
 - **Sound Integration**: Java Sound API, audio management systems
 
 ## Contact
-- LinkedIn: [your-linkedin-url](your-linkedin-url)
-- Email: your.email@example.com
+- LinkedIn: [www.linkedin.com/in/blake-kellison-36567b34a](www.linkedin.com/in/blake-kellison-36567b34a)
+- Email: blakekellison07@gmail.com
 - Portfolio: [bkellison.github.io](https://bkellison.github.io)
